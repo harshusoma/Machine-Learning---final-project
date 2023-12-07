@@ -1,7 +1,7 @@
 # Machine Learning final-project
 
- <h1 align="center">Project Name :  
- Avila Bible Document Classification:Exploring Features and Machine Learning Methods</h1>
+ <h1 align="center">Project Name : 
+ - Avila Bible Document Classification:Exploring Features and Machine Learning Methods</h1>
 
 Team Members : 
   - Aidhitha S Konathala - A20550006
